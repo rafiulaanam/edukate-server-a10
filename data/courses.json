@@ -1,0 +1,143 @@
+[
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "C Programming for Beginners",
+      "url": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Introduction to R",
+      "url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "Graphic Design Fundamentals",
+      "url": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "iOS App Development with Swift",
+      "url": "https://media.istockphoto.com/photos/computer-programmer-working-on-laptop-picture-id1265176772?b=1&k=20&m=1265176772&s=170667a&w=0&h=IHFnvxa3kvVTuZcEfPpCSGIFA_gNT7dIlGDR7eD2cFI=",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "Career Track: Android App Development",
+      "url": "https://media.istockphoto.com/photos/day-at-the-office-picture-id1390307383?b=1&k=20&m=1390307383&s=170667a&w=0&h=0yMSGI6EzrZL1ehGtPMtPcdQThT8TKPbf9KKWf1dgEo=",
+      
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "Career Track: Front-End Web Development",
+      "url": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+      "albumId": 1,
+      "id": 7,
+      "title": "Diversity, Tolerance & Pluralism",
+      "url": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+      "albumId": 1,
+      "id": 8,
+      "title": "Introduction to Database",
+      "url": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+      "albumId": 1,
+      "id": 9,
+      "title": "Google Marketing Tools (Organic)",
+      "url": "https://via.placeholder.com/600/51aa97",
+      "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    },
+    {
+      "albumId": 1,
+      "id": 10,
+      "title": "Google Ads Complete Course: A to Z",
+      "url": "https://via.placeholder.com/600/810b14",
+      "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+    },
+    {
+      "albumId": 1,
+      "id": 11,
+      "title": "Laravel for Back-end Web Development",
+      "url": "https://via.placeholder.com/600/1ee8a4",
+      "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+    },
+    {
+      "albumId": 1,
+      "id": 12,
+      "title": "Facebook Ads: A to Z",
+      "url": "https://via.placeholder.com/600/66b7d2",
+      "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
+    },
+    {
+      "albumId": 1,
+      "id": 13,
+      "title": "repudiandae iusto deleniti rerum",
+      "url": "https://via.placeholder.com/600/197d29",
+      "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+    },
+    {
+      "albumId": 1,
+      "id": 14,
+      "title": "est necessitatibus architecto ut laborum",
+      "url": "https://via.placeholder.com/600/61a65",
+      "thumbnailUrl": "https://via.placeholder.com/150/61a65"
+    },
+    {
+      "albumId": 1,
+      "id": 15,
+      "title": "harum dicta similique quis dolore earum ex qui",
+      "url": "https://via.placeholder.com/600/f9cee5",
+      "thumbnailUrl": "https://via.placeholder.com/150/f9cee5"
+    },
+    {
+      "albumId": 1,
+      "id": 16,
+      "title": "iusto sunt nobis quasi veritatis quas expedita voluptatum deserunt",
+      "url": "https://via.placeholder.com/600/fdf73e",
+      "thumbnailUrl": "https://via.placeholder.com/150/fdf73e"
+    },
+    {
+      "albumId": 1,
+      "id": 17,
+      "title": "natus doloribus necessitatibus ipsa",
+      "url": "https://via.placeholder.com/600/9c184f",
+      "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
+    },
+    {
+      "albumId": 1,
+      "id": 18,
+      "title": "laboriosam odit nam necessitatibus et illum dolores reiciendis",
+      "url": "https://via.placeholder.com/600/1fe46f",
+      "thumbnailUrl": "https://via.placeholder.com/150/1fe46f"
+    },
+    {
+      "albumId": 1,
+      "id": 19,
+      "title": "perferendis nesciunt eveniet et optio a",
+      "url": "https://via.placeholder.com/600/56acb2",
+      "thumbnailUrl": "https://via.placeholder.com/150/56acb2"
+    },
+    {
+      "albumId": 1,
+      "id": 20,
+      "title": "assumenda voluptatem laboriosam enim consequatur veniam placeat reiciendis error",
+      "url": "https://via.placeholder.com/600/8985dc",
+      "thumbnailUrl": "https://via.placeholder.com/150/8985dc"
+    }
+]
