@@ -14,6 +14,11 @@ app.get('/', (req,res)=>{
 app.get('/courses', (req,res)=>{
     res.send(courses)
 })
+app.get('/courses', (req,res)=>{
+    const id = req.query.id;
+    const result = courses.find(id)
+    res.send(result)
+})
 
 
 
